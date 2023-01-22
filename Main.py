@@ -5,7 +5,6 @@ straw_pos = int(input())
 # ***********************************
 # HW2
 # Name: HANAA ZAQOUT
-# Student No: 2020400381
 # ***********************************
 
 should_stop = False
